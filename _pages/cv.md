@@ -27,4 +27,3 @@ Languages
 ======
 * Italian: Native
 * English: Fluent
-  {% endfor %}</ul>
