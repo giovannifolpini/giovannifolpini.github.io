@@ -1,6 +1,6 @@
 ---
 title: "Hotplate soldering iron"
-excerpt: "Design and construction of a hotplate soldering iron around an old clothes iron <br/><img src='/images/500x300.png'>"
+excerpt: "Design and construction of a hotplate soldering iron around an old clothes iron <br/><img src='/images/hotplate_thumb.jpg' width='500'>"
 collection: portfolio
 ---
 
