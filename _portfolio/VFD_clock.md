@@ -1,6 +1,6 @@
 ---
 title: "VFD clock"
-excerpt: "Design and construction of a clock around a vintage VFD tube<br/><img src='/images/VFD_thumb.jpg' width="500" height="281">"
+excerpt: "Design and construction of a clock around a vintage VFD tube<br/><img src='/images/VFD_thumb.jpg' width="500">"
 collection: portfolio
 ---
 
