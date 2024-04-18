@@ -1,6 +1,6 @@
 ---
 title: "Nixie radio clock"
-excerpt: "Design and construction of a radio clock based around vintage Nixie tubes <br/><img src='/images/500x300.png'>"
+excerpt: "Design and construction of a radio clock based around vintage Nixie tubes <br/><img src='/images/Nixie_thumb.JPG' width='500'>"
 collection: portfolio
 ---
 
