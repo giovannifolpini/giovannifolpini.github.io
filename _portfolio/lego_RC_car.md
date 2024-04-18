@@ -1,6 +1,6 @@
 ---
 title: "LEGO Technic RC car"
-excerpt: "Motorization of a LEGO technic set, from the motor to the custom controller<br/><img src='/images/500x300.png'>"
+excerpt: "Motorization of a LEGO technic set, from the motor to the custom controller<br/><img src='/images/RC_thumb.JPG' width='500'>"
 collection: portfolio
 ---
 
