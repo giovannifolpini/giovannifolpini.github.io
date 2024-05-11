@@ -19,5 +19,5 @@ The whole circuit is simply connecting these sensor and actuators together in a 
 To protect the mains wiring from accidental touch i designed a fitting enclosure to be 3D printed, with the necessary cutouts for all the wires. <br/>
 The control panel and circuit box is also 3D modelled and printed; the panel is tilted by 45 degrees so that the non backlit LCD can be read easily. <br/>
 
-<img src='/images/hotplate_iron/front_panel.jpg' width='500'> 
-<img src='/images/hotplate_iron/panel_arm.jpg' width='500'> <br/>
+<img src='/images/hotplate_iron/front_panel.jpg' width='500'> <img src='/images/hotplate_iron/panel_arm.jpg' width='500'> <br/>
+
