@@ -12,8 +12,8 @@ The circuit needed to create this hotplate is relatively simple, the main power 
 The temperature feedback is achieved with the use of a thermocouple and relative digital converter. <br/>
 The whole circuit is simply connecting these sensor and actuators together in a prototype board. <br/>
 
-<img src='/images/hotplate_iron/circuit.jpg' width='500'> 
-<img src='/images/hotplate_iron/thermocouple.jpg' width='500'> <br/>
+<img src='/images/hotplate_iron/circuit.jpg' width='500'> <img src='/images/hotplate_iron/thermocouple.jpg' width='500'> <br/>
+
 
 ## 3D modelling of the enclosures
 To protect the mains wiring from accidental touch i designed a fitting enclosure to be 3D printed, with the necessary cutouts for all the wires. <br/>
